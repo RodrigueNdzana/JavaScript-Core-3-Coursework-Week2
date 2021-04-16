@@ -1,0 +1,13 @@
+.buttonStyle{
+    outline: none;
+    padding: 0.5rem;
+    background: rgb(21,21,21);
+    color: white;
+    border: none;
+    border: 15px;
+    cursor: pointer;
+    margin-left: 2.5rem;
+}
+.imgCss{
+    width: 40%;
+}
